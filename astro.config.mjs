@@ -5,7 +5,10 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "Learnly",
+      logo: {
+        src: "./src/assets/houston.webp",
+      },
       defaultLocale: "root",
       locales: {
         root: {

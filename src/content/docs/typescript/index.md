@@ -1,11 +1,10 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: The Basics
+description: The basics of Typescript
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+Once upon a time.
 
-## Further reading
+## Heading 2
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+Once upon a time.
