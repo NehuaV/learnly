@@ -1,6 +1,8 @@
 ---
-title: The Basics of TypeScript
+title: First Draft
 description: The basics of Typescript
+sidebar:
+  order: 1
 ---
 
 TypeScript is a powerful language developed by Microsoft for building complex applications. It is a superset of JavaScript, which means that any valid JavaScript code is also valid TypeScript code. TypeScript adds static typing to JavaScript, making the code more robust and maintainable, particularly in large applications. This chapter introduces you to the basics of TypeScript, including its types, variables, and syntax.
