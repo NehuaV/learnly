@@ -24,12 +24,15 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Guides",
+          label: "TypeScript",
           items: [
-            // Each item here is one entry in the navigation menu.
             {
-              label: "TypeScript",
-              autogenerate: { directory: "typescript" },
+              label: "Introduction",
+              autogenerate: { directory: "typescript/introduction" },
+            },
+            {
+              label: "Primitive Types",
+              autogenerate: { directory: "typescript/primitive-types" },
             },
           ],
         },
