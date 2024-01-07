@@ -19,9 +19,6 @@ export default defineConfig({
           label: "Bulgarian",
         },
       },
-      social: {
-        linkedin: "https://www.linkedin.com/in/dobri-trifonov/",
-      },
       sidebar: [
         {
           label: "TypeScript",
