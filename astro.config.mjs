@@ -34,6 +34,10 @@ export default defineConfig({
               label: "Data Types",
               autogenerate: { directory: "typescript/data-types" },
             },
+            {
+              label: "Data Structures",
+              autogenerate: { directory: "typescript/data-structures" },
+            },
           ],
         },
       ],
