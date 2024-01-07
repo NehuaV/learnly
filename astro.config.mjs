@@ -28,8 +28,8 @@ export default defineConfig({
               autogenerate: { directory: "typescript/introduction" },
             },
             {
-              label: "Primitive Types",
-              autogenerate: { directory: "typescript/primitive-types" },
+              label: "Data Types",
+              autogenerate: { directory: "typescript/data-types" },
             },
           ],
         },
