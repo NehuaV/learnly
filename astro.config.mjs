@@ -9,6 +9,9 @@ export default defineConfig({
       logo: {
         src: "./src/assets/houston.webp",
       },
+      customCss: ["./src/styles/sidebar.css"],
+
+      // Locales
       defaultLocale: "root",
       locales: {
         root: {
