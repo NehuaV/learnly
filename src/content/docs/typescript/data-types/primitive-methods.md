@@ -1,5 +1,5 @@
 ---
-title: Primitive Types and Methods in TypeScript
+title: Primitive Types and Methods
 sidebar:
   order: 2
 ---

@@ -1,8 +1,8 @@
 ---
-title: Map and Set in JavaScript
+title: Map and Set
 description: Map and Set are two new data structures introduced in ES6. Map is an enhanced version of Object for storing key-value pairs, while Set is a collection for storing unique values.
 sidebar:
-  order: 1
+  order: 3
 ---
 
 JavaScript provides various ways to store collections of data. Up to now, we've explored objects and arrays:

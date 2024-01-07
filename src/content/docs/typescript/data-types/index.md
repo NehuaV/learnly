@@ -1,5 +1,5 @@
 ---
-title: TypeScript Data Types
+title: Data Types
 description: In TypeScript, every value is of a certain type, such as a string or a number. There are eight basic data types, which we will cover in detail in the following sections.
 sidebar:
   order: 1

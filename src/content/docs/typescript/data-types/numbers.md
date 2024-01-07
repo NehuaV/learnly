@@ -1,5 +1,5 @@
 ---
-title: Numbers in TypeScript
+title: Numbers
 sidebar:
   order: 3
 ---

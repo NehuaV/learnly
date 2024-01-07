@@ -1,5 +1,5 @@
 ---
-title: Strings in TypeScript
+title: Strings
 sidebar:
   order: 4
 ---
