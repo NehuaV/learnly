@@ -1,18 +1,18 @@
 ---
-title: Strings in JavaScript
+title: Strings in TypeScript
 sidebar:
   order: 4
 ---
 
-JavaScript handles textual data using strings. Unlike some languages that have a distinct character type, JavaScript does not; even a single character is a string.
+TypeScript handles textual data using strings. Unlike some languages that have a distinct character type, TypeScript does not; even a single character is a string.
 
-Internally, JavaScript represents strings in [UTF-16](https://en.wikipedia.org/wiki/UTF-16) format, independent of the page's character encoding.
+Internally, TypeScript represents strings in [UTF-16](https://en.wikipedia.org/wiki/UTF-16) format, independent of the page's character encoding.
 
 ## String Quotes
 
-In JavaScript, strings can be defined using single quotes, double quotes, or backticks:
+In TypeScript, strings can be defined using single quotes, double quotes, or backticks:
 
-```js
+```ts
 let single = "single-quoted";
 let double = "double-quoted";
 
@@ -96,7 +96,7 @@ for (let char of "Hello") {
 
 ## Strings are Immutable
 
-Strings in JavaScript cannot be altered once created. While you cannot change a character within a string, you can create a new string and assign it:
+Strings in TypeScript cannot be altered once created. While you cannot change a character within a string, you can create a new string and assign it:
 
 ```typescript
 let str = "Hi";
@@ -137,7 +137,7 @@ Strings are compared based on standard lexicographical ordering using Unicode va
 
 ## Summary
 
-Strings in JavaScript are versatile, supporting various methods for manipulation, comparison, and search/replace. Remember:
+Strings in TypeScript are versatile, supporting various methods for manipulation, comparison, and search/replace. Remember:
 
 - Strings can be defined with single quotes, double quotes, or backticks.
 - Special characters like newline (`\n`) can be included.
@@ -149,4 +149,4 @@ Strings in JavaScript are versatile, supporting various methods for manipulation
 
 are compared by their Unicode values, but `localeCompare` provides locale-aware comparison.
 
-JavaScript's string handling, particularly with Unicode, can be complex, and there are additional topics like regular expressions for more advanced search/replace operations. For further details, refer to JavaScript documentation and additional resources on string manipulation and Unicode handling.
+TypeScript's string handling, particularly with Unicode, can be complex, and there are additional topics like regular expressions for more advanced search/replace operations. For further details, refer to TypeScript documentation and additional resources on string manipulation and Unicode handling.
