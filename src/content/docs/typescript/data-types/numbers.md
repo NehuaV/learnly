@@ -1,5 +1,5 @@
 ---
-title: "TypeScript Numbers: A Comprehensive Guide"
+title: Numbers in TypeScript
 sidebar:
   order: 3
 ---
